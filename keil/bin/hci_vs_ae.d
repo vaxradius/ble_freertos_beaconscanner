@@ -1,0 +1,13 @@
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/ble-host/sources/hci/ambiq/hci_vs_ae.c
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_types.h
+.\bin\hci_vs_ae.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/wsf/sources/util/bstream.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/wsf/sources/util/bda.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/ble-host/include/hci_core.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/ble-host/sources/hci/ambiq/hci_core_ps.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/wsf/include/wsf_queue.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/wsf/include/wsf_os.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_os_int.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/ble-host/include/hci_api.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/wsf/include/hci_defs.h
+.\bin\hci_vs_ae.o: ../../../../../third_party/exactle/ble-host/sources/stack/cfg/cfg_stack.h

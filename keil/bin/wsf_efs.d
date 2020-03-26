@@ -1,0 +1,13 @@
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_efs.c
+.\bin\wsf_efs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_types.h
+.\bin\wsf_efs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/include/wsf_efs.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_assert.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_trace.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_cs.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/include/wsf_os.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_os_int.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/include/wsf_queue.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/sources/util/bstream.h
+.\bin\wsf_efs.o: ../../../../../third_party/exactle/wsf/sources/util/bda.h

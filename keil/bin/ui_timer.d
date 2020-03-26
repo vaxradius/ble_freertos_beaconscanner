@@ -1,0 +1,12 @@
+.\bin\ui_timer.o: ../../../../../third_party/exactle/ble-profiles/sources/apps/app/common/ui_timer.c
+.\bin\ui_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_types.h
+.\bin\ui_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_trace.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/wsf/include/wsf_timer.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/wsf/include/wsf_os.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_os_int.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/wsf/include/wsf_queue.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_assert.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/ble-profiles/include/app/ui_api.h
+.\bin\ui_timer.o: ../../../../../third_party/exactle/ble-profiles/include/app/app_ui.h

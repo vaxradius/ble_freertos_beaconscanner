@@ -1,0 +1,10 @@
+.\bin\ui_platform.o: ../../../../../third_party/exactle/ble-profiles/sources/apps/app/common/ui_platform.c
+.\bin\ui_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\bin\ui_platform.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_types.h
+.\bin\ui_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\ui_platform.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_trace.h
+.\bin\ui_platform.o: ../../../../../third_party/exactle/wsf/include/wsf_msg.h
+.\bin\ui_platform.o: ../../../../../third_party/exactle/wsf/include/wsf_queue.h
+.\bin\ui_platform.o: ../../../../../third_party/exactle/wsf/include/wsf_os.h
+.\bin\ui_platform.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_os_int.h
+.\bin\ui_platform.o: ../../../../../third_party/exactle/wsf/include/wsf_bufio.h

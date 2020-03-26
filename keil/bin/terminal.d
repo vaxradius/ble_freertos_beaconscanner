@@ -1,0 +1,15 @@
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/util/terminal.c
+.\bin\terminal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\bin\terminal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\bin\terminal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/util/terminal.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_types.h
+.\bin\terminal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/include/wsf_os.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_os_int.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/include/wsf_queue.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/util/print.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_assert.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_trace.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/util/bstream.h
+.\bin\terminal.o: ../../../../../third_party/exactle/wsf/sources/util/bda.h

@@ -1,0 +1,14 @@
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/ble-host/sources/hci/ambiq/hci_cmd_cte.c
+.\bin\hci_cmd_cte.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_types.h
+.\bin\hci_cmd_cte.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/wsf/include/wsf_msg.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/wsf/include/wsf_queue.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/wsf/include/wsf_os.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_os_int.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/wsf/sources/util/bstream.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/wsf/sources/util/bda.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/ble-host/include/hci_cmd.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/ble-host/include/hci_api.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/wsf/include/hci_defs.h
+.\bin\hci_cmd_cte.o: ../../../../../third_party/exactle/ble-host/sources/stack/hci/hci_main.h

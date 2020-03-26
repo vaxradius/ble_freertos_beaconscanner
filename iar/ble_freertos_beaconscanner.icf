@@ -1,0 +1,49 @@
+//*****************************************************************************
+//
+// ble_freertos_beaconscanner.icf
+//
+// IAR linker Configuration File
+//
+//*****************************************************************************
+
+//
+// Define a memory section that covers the entire 4 GB addressable space of the
+// processor. (32-bit can address up to 4GB)
+//
+define memory mem with size = 4G;
+
+//
+// Define regions for the various types of internal memory.
+//
+define region ROMEM    = mem:[from 0x0000C000 to 0x000FC000];
+define region RWMEM    = mem:[from 0x10000000 to 0x10060000];
+
+//
+// Define blocks for logical groups of data.
+//
+define block HEAP with alignment = 0x8, size = 0x00000000 { };
+define block CSTACK with alignment = 0x8, size = 11008
+{
+    section .stack
+};
+
+define block FLASHBASE with fixed order
+{
+    readonly section .intvec,
+    readonly section .patch
+};
+
+//
+// Set section properties.
+//
+initialize by copy { readwrite };
+do not initialize { section .noinit };
+do not initialize { section .stack };
+
+//
+// Place code sections in memory regions.
+//
+place at start of ROMEM { block FLASHBASE };
+place in ROMEM { readonly };
+place at start of RWMEM { block CSTACK};
+place in RWMEM { block HEAP, readwrite, section .noinit };

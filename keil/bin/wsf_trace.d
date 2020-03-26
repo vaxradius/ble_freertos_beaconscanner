@@ -1,0 +1,15 @@
+.\bin\wsf_trace.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_trace.c
+.\bin\wsf_trace.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_types.h
+.\bin\wsf_trace.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\wsf_trace.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_trace.h
+.\bin\wsf_trace.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_assert.h
+.\bin\wsf_trace.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_cs.h
+.\bin\wsf_trace.o: ../../../../../third_party/exactle/wsf/include/wsf_os.h
+.\bin\wsf_trace.o: ../../../../../third_party/exactle/wsf/sources/port/freertos/wsf_os_int.h
+.\bin\wsf_trace.o: ../../../../../third_party/exactle/wsf/include/wsf_queue.h
+.\bin\wsf_trace.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\bin\wsf_trace.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\bin\wsf_trace.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\bin\wsf_trace.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\bin\wsf_trace.o: ../../../../../utils/am_util_debug.h
+.\bin\wsf_trace.o: ../../../../../utils/am_util_stdio.h

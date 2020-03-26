@@ -1,0 +1,23 @@
+;******************************************************************************
+;
+; ble_freertos_beaconscanner.sct
+;
+; Scatter file for Keil linker configuration.
+;
+;******************************************************************************
+
+LR_1 0x0000C000
+{
+    FLASH 0x0000C000 0x000F0000
+    {
+        *.o (RESET, +First)
+        * (+RO)
+    }
+
+    SRAM 0x10000000 0x00060000
+    {
+        startup_keil.o (STACK, +First)
+        * (+RW, +ZI)
+    }
+}
+
